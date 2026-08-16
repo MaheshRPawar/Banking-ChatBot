@@ -170,6 +170,6 @@ This project is licensed under the **MIT License**.
 
 **Mahesh Pawar**
 
-GitHub: **https://github.com/MR1229**
+GitHub: **https://github.com/MaheshRPawar**
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
